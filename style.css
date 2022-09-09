@@ -1,0 +1,12 @@
+.overright {
+  text-decoration: line-through;
+}
+
+.bttn {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  padding: .5rem .5rem;
+  font-family: arial;
+  background-color: chartreuse;
+  border-radius: 8px;
+}
